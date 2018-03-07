@@ -1,0 +1,23 @@
+{
+  "name": "set-full-property-tree-changed-event",
+  "version": "0.0.1",
+  "description": "example, when qlik version fires changed event on which object",
+  "devDependencies": {
+    "typescript": "2.7.2"
+  },
+  "dev-dependencies": {
+    "@types/enigma.js": "2.2.1",
+    "@types/qlik-engineapi": "12.67.0",
+    "@types/ws": "4.0.1",
+    "@types/jsonwebtoken": "7.2.5",
+    "typescript": "2.7.2"
+  },
+  "dependencies": {
+    "enigma.js": "2.2.0",
+    "ws": "4.1.0",
+    "jsonwebtoken": "8.1.1"
+  },
+  "scripts": {
+    "start": "tsc && node src/index"
+  }
+}

@@ -1,0 +1,7 @@
+{
+    "hostname": "HOSTNAME OF QLIKSERVER",
+    "userDirectory": "USER DIRECTORY OF QLIKSERVER",
+    "userId": "EXAMPLE USER",
+    "certPath": "C:\\ProgramData...",
+    "proxyPrefix": "jwt"
+}
